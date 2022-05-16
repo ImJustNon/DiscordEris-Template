@@ -15,6 +15,7 @@ module.exports = {
      * @param {Eris} client 
      * @param {Message} message 
      * @param {String[]} args 
+     * @param {String} prefix
      */
     run: async(client, message, args, prefix) =>{
         //code
